@@ -1,2 +1,2 @@
 # Trabalho-Ricardo-
-Nosso trabalho proposto pelo profeessor Ricardo.
+Nosso trabalho proposto pelo professor Ricardo.
