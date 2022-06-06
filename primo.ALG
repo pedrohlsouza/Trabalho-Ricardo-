@@ -18,15 +18,15 @@ inicio
 
    para ind <- 0 ate 9 passo 1 faca
    cont <- 0
-    para i de vet[ind] ate 0 passo -1 faca
-     se vet[ind] mod  i = 0 entao
+    para i de v[ind] ate 0 passo -1 faca
+     se v[ind] mod  i = 0 entao
          cont <- cont+1
          fimse
       fimpara
       se cont = 2 entao
-         escreval(vet[ind]," é primo.")
+         escreval(v[ind]," é primo.")
       senao
-         escreval(vet[ind]," não é primo.")
+         escreval(v[ind]," não é primo.")
       fimse
    fimpara
 fimalgoritmo
