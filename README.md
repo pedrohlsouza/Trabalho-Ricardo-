@@ -1,2 +1,2 @@
-# Trabalho-Ricardo-
-Nosso trabalho proposto pelo professor Ricardo.
+# Trabalhos-Ricardo 
+Repositório com os trabalhos do professor Ricardo
