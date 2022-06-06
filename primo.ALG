@@ -1,5 +1,5 @@
 algoritmo "NumerosPrimos"
-//aluno: Luis Felipe Zuin Zatoni
+//aluno: Luis Felipe Zuin Zatoni e Pedro Henrique Leite
 // 06/06/2022
 var
 i,ind,cont:inteiro
@@ -18,9 +18,9 @@ inicio
 
    para ind <- 0 ate 9 passo 1 faca
    cont <- 0
-            para i de vet[ind] ate 0 passo -1 faca
-         se vet[ind] mod  i = 0 entao
-            cont <- cont+1
+    para i de vet[ind] ate 0 passo -1 faca
+     se vet[ind] mod  i = 0 entao
+         cont <- cont+1
          fimse
       fimpara
       se cont = 2 entao
